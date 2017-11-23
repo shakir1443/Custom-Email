@@ -30,3 +30,6 @@ smtp_port = 587
 sendmail_from =your_email
 
 sendmail_path ="C:\wamp64\sendmail\sendmail.exe -t"
+
+## Step 5 : Change settings in email
+In case of gmail, go to my account. In Sign-in & security tab, go to Apps with account access. Allow less secure apps to On mode.
